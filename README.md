@@ -11,7 +11,7 @@
 
 <br />
 
-<p> <br> I'm Maliy Artem, student in Plekhanov Russian university, Moscow, Russia.</p>
+<p> <br> I'm Maliy Artem, student at Plekhanov Russian university, Moscow, Russia.</p>
 <p> I wanna be programmer, so I'm here</p>
 
 <br />
