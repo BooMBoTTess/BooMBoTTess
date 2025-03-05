@@ -1,4 +1,4 @@
-<img src="help.png" alt="Banner"/>
+<img src="github-header-image.png" alt="Banner"/>
 
 <div id="badges" align="center">
   <a href="https://t.me/BooMBoTTs">
