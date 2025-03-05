@@ -52,7 +52,7 @@
 [![BooMBoTTess's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BooMBoTTess&theme=blue-green)](https://github.com/BooMBoTTess/github-readme-stats)
 <div id="stats" align="center">
  <img src="https://komarev.com/ghpvc/?username=BooMBoTTess" alt="stats" />
- <img src="https://www.codewars.com/users/BooMBoTT/badges/micro" alt="codewars" />
+ <img src="https://www.codewars.com/users/BoomBoTT/badges/micro" alt="codewars" />
 </div>
 
 
