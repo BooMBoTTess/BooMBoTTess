@@ -4,9 +4,6 @@
   <a href="https://t.me/BooMBoTTs">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
-  <a href="mailto:malyjartem52@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
-  </a>
 </div>
 <h3 align="center">Backend-Developer</h3>
 
@@ -20,8 +17,6 @@
 
 ## Get in touch with me
 
-- 📧 Yandex Email: antonlaid@yandex.ru
-- 📧 Google Email: malyjartem52@gmail.com
 - 📱 Telegram: @BooMBoTTs
 
 ## :muscle: My skills
